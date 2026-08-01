@@ -3,7 +3,7 @@ import random
 import asyncio
 from telegram import Bot, InlineKeyboardButton, InlineKeyboardMarkup
 
-TOKEN = "8672620524:AAFXb4N2MFMPyLE_UbzoOTbdgig78in7UUg"
+TOKEN = "8672620524:AAHwMHQcrAKBx3mBhd05Z_l_kFmp5D9ip08"
 CHANNEL = "@SheinDealsSA_Channel"
 
 async def main():
