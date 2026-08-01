@@ -1,16 +1,16 @@
 [
   {
-    "title": "حذاء رياضي أنيق",
-    "price": "99 ريال",
-    "discount": "55%",
-    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
-    "url": "https://t.me"
+    "title": "فستان أنيق لجميع المناسبات",
+    "price": "129 ريال",
+    "discount": "50%",
+    "image_url": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f",
+    "affiliate_url": "ضع_رابط_عمولة_شي_إن_هنا"
   },
   {
-    "title": "ساعة رجالية فاخرة",
-    "price": "79 ريال",
+    "title": "حذاء رياضي مريح",
+    "price": "89 ريال",
     "discount": "40%",
-    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30",
-    "url": "https://t.me"
+    "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+    "affiliate_url": "ضع_رابط_عمولة_شي_إن_الثاني_هنا"
   }
 ]
